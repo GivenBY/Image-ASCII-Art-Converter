@@ -2,8 +2,7 @@
 
 This Python script provides tools to convert images to ASCII text representations and then back into an image.
 
-<img src="./public/fl.jpg" width=250 height=250 class="my-image-class" alt="Image Description" title="Optional Title">
-<img src="./public/output.png" width=250 height=250 class="my-image-class" alt="Image Description" title="Optional Title">
+<img src="./public/fl.jpg" width=250 height=250 class="my-image-class" alt="Image Description" title="Optional Title"><img src="./public/output.png" width=250 height=250 class="my-image-class" alt="Image Description" title="Optional Title">
 
 ## Features
 
