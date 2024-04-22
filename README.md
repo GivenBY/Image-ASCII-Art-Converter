@@ -37,12 +37,6 @@ This Python script provides tools to convert images to ASCII text representation
    - -o <output_image>: (Optional) Name for the output image. Defaults to "content.png."
    - -s <ascii_scale>: (Optional) Scaling factor for the ASCII conversion. Defaults to 5.
 
-## Example
-
-1. Image Input: [Upload a sample image]
-2. ASCII Output: [Paste the resulting ASCII art]
-3. Reconstructed Image: [Upload the output image]
-
 ## Contributing
 
 We welcome contributions! Feel free to open issues or submit pull requests.
